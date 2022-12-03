@@ -1,3 +1,4 @@
 
 #Ignorar librerias
-/venv/Lib/
+/venv/Lib/*
+/venv/Include/*
